@@ -28,6 +28,8 @@
 <h2>Responsive examples</h2>
 
 <br>
+<span>
 <img src="public/image/responsive 2.png" style="height: 300px;" alt="">
 <img src="public/image/responsive1.png" style="height: 300px;" alt="">
 <img src="public/image/responsive3.png" style="height: 300px;" alt="">
+    </span>
